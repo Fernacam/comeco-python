@@ -1,2 +1,2 @@
-# come-o-python
+# comeco-python
 Starting learn python
